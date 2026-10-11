@@ -92,3 +92,8 @@ Bei jeder künftigen Arbeit an Elementbruch:
 - **Nutzerkritik:** Ein GitHub-Projektgedächtnis schützt die letzten fünf Minuten Diskussion nicht, wenn diese erst am Ende einer langen Aufgabe gespeichert würden. Genau dieser Verlust ist das Hauptproblem.
 - **Neue Arbeitsvorgabe:** Relevante neue Anforderungen, Entscheidungen und Testbeobachtungen direkt **vor** längeren Arbeitsschritten im Projektgedächtnis committen; bei langen Aufgaben zusätzlich kleine GitHub-Zwischenstände für Code und Dokumentation, statt am Ende einmalig zu sichern. Entsprechend wurde `AGENTS.md` präzisiert.
 - **Technische Grenze:** Keine wortwörtliche, lückenlose Hintergrund-Synchronisation des ChatGPT-Chats. Inhalt seit dem letzten erfolgreichen Commit bleibt bei einem Abbruch möglicherweise verloren. Nur bestätigte GitHub-Schreibvorgänge sind gesichert.
+
+### 2026-10-11 – Langjähriger, wiederkehrender Chatverlust (Nutzerbericht)
+- **Wichtige Präzisierung des Nutzers:** Das Problem verschwindender oder leer ladender ChatGPT-Unterhaltungen tritt nach seiner Erfahrung seit **ungefähr einem Jahr immer wieder** auf; es ist kein einmaliger Vorfall vom Oktober 2026. Beim Wiederöffnen nach längerer gemeinsamer Arbeit fehlen teils ganze Unterhaltungen oder der Abruf bricht ab.
+- **Konsequenz:** Nicht so tun, als ließe sich die Ursache aus einer einzelnen aktuellen Störungsmeldung bestimmen. ChatGPTs normale serverseitige Verlaufsaufbewahrung ist von garantierter Wiederanzeige und den eigenen GitHub-Checkpoints zu unterscheiden.
+- **Priorität für die Zusammenarbeit:** Das Langzeitproblem nicht bagatellisieren, keine ungetesteten Lösungen garantieren, wichtige Entwicklerbeschlüsse vor längerer Arbeit sichern und immer offen sagen, was nachweislich committed ist und was nicht.
