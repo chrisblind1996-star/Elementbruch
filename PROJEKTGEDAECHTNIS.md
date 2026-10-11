@@ -81,3 +81,9 @@ Bei jeder künftigen Arbeit an Elementbruch:
 - Was wurde ausdrücklich abgelehnt?
 - Was wurde im Spiel umgesetzt und getestet?
 - Was ist noch offen / nächster Schritt?
+
+### 2026-10-11 – Prüfung der Projektgedächtnis-Einrichtung
+- **Geprüft:** GitHub-Repository und `PROJEKTGEDAECHTNIS.md` sind über die verbundene GitHub-Schnittstelle lesbar. Auch `AGENTS.md` existiert und weist Entwickler/Agenten an, vor neuer Arbeit zuerst das Projektgedächtnis zu lesen und bei wesentlichen Änderungen zeitnah zu aktualisieren.
+- **Zusätzlich vorhanden:** Projektanweisung für den ChatGPT-Projektkontext, zuerst GitHub und das Projektgedächtnis zu prüfen; beim vorliegenden Statuscheck wurde diese Anweisung erfolgreich angewendet.
+- **Wichtige Klarstellung an den Nutzer:** Dies ist **keine** automatische, lückenlose Archivierung sämtlicher Chatnachrichten und **keine** Hintergrundsynchronisierung. Nur ausdrücklich in die GitHub-Datei geschriebene Gesprächsergebnisse bleiben dort gesichert. Bei Chatabbruch vor Speicherung kann Kontext weiterhin verloren gehen. Normale Chats greifen nicht allein wegen `AGENTS.md` garantiert darauf zu.
+- **Weiterhin verbindlich:** Relevante Entwicklungsentscheidungen, verworfene Varianten, Begründungen und Testfeedback im laufenden Arbeitsgang speichern; beim Start neuer Entwicklungsaufgaben zunächst GitHub lesen. Schreibvorgänge und Erfolg jeweils prüfen.
