@@ -16,3 +16,9 @@ Dieses Repository gehört zum langfristigen Tower-Defense-Projekt **„Elementbr
 
 ## Technische und kommunikative Ehrlichkeit
 Diese Datei ist eine **Arbeitsanweisung an Assistenten/Codeagenten, die Repo-Dateien lesen**. Sie löst das ChatGPT-Problem verschwindender Unterhaltungen nicht. Normale ChatGPT-Projektchats lesen sie nicht garantiert automatisch. Dafür sind zusätzlich passende ChatGPT-**Projektanweisungen** erforderlich. Eine abgebrochene, nicht geschriebene Diskussion lässt sich nicht durch diese Datei rekonstruieren.
+
+## Verbindliches Sicherungsprotokoll gegen Chatabbrüche
+- **Zu Beginn jedes Entwicklungsschritts:** Neues, substanzielles Nutzerfeedback und neue Beschlüsse aus der aktuellen Nachricht **zuerst** mit einem GitHub-Commit im Projektgedächtnis sichern, bevor längere Recherche, Codegenerierung oder Überarbeitung beginnt. So wird nicht auf den Abschluss einer langen Aufgabe gewartet.
+- Bei langwieriger Implementierung kleine, funktionierende Code- und Dokumentations-Zwischenstände committen, nicht nur am Ende.
+- Jede wirklich neue Entscheidung nach Möglichkeit im unmittelbar folgenden Antwortschritt sichern und den Commit-Erfolg überprüfen; bei fehlgeschlagenem Zugriff das sofort offenlegen.
+- Eine ChatGPT-Unterhaltung wird damit **nicht** live oder wortwörtlich synchronisiert: Unvollständige Bearbeitung zwischen zwei Commits kann weiterhin verloren gehen. Keine gegenteilige Zusicherung geben.
